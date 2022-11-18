@@ -1,2 +1,2 @@
 learn how to merge another branch lol
-This is anew line added in the master branch that will be deleted after merge
+new line added in learn-notes that will be kept after merge
